@@ -10,3 +10,47 @@
     <p>Aquí encontrarás mitos, leyendas e historias nicaragüenses.</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca de Mitos y Leyendas Nicaragüenses</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Biblioteca de Mitos y Leyendas Nicaragüenses</h1>
+        <p>Bienvenido a la Biblioteca Online. Aquí encontrarás mitos, leyendas e historias de Nicaragua.</p>
+    </header>
+
+    <main>
+        <section class="mito">
+            <h2>La Carreta Nagua</h2>
+            <p>Se dice que es una carreta fantasmal que recorre los caminos en las noches de luna llena, sin bueyes que la jalen y con un sonido aterrador. Aparece como advertencia para aquellos que han cometido malas acciones.</p>
+        </section>
+
+        <section class="mito">
+            <h2>La Mocuana</h2>
+            <p>Cuenta la historia de una indígena que fue traicionada por un español, quien la enamoró solo para robar el oro de su pueblo. Desde entonces, su espíritu vaga por los bosques, buscando venganza y atrayendo a los hombres con su belleza antes de desaparecer en la oscuridad.</p>
+        </section>
+
+        <section class="mito">
+            <h2>El Cadejo</h2>
+            <p>Se trata de dos perros espirituales: uno blanco, que protege a los viajeros nocturnos, y uno negro, que representa el mal y busca llevar a las personas por caminos oscuros. Si alguien ve al Cadejo negro y muestra miedo, este lo perseguirá hasta enloquecerlo.</p>
+        </section>
+
+        <section class="mito">
+            <h2>La Cegua</h2>
+            <p>Es una mujer hermosa que aparece en los caminos para seducir a los hombres mujeriegos y borrachos. Cuando se acercan, su rostro se transforma en una calavera espantosa con ojos rojos y dientes de caballo, lo que provoca un terror incontrolable en sus víctimas.</p>
+        </section>
+
+        <section class="mito">
+            <h2>El Güegüense</h2>
+            <p>Es un personaje astuto que simboliza la resistencia indígena frente a los conquistadores españoles. Con su ingenio y palabras, se burla de las autoridades sin que puedan castigarlo. Su historia dio origen a la obra teatral más famosa de Nicaragua y es considerada Patrimonio Cultural de la Humanidad.</p>
+        </section>
+    </main>
+
+</body>
+</html>
